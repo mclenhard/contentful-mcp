@@ -33,6 +33,7 @@
     "@modelcontextprotocol/sdk": "1.0.1",
     "contentful-management": "^10.46.4",
     "dotenv": "^16.4.7",
+    "mcp-evals": "^1.0.18",
     "zod": "^3.22.4",
     "zod-to-json-schema": "^3.22.1"
   },
